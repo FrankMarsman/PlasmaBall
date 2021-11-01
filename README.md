@@ -2,7 +2,7 @@
 A small program that is able to simulate a plasma globe
 
 
-![](images/plasmasim_gui.png)
+![](images/AAA.png)
 
 
-![](images/smal_version.gif)
+![](images/small_version.gif)
