@@ -3,7 +3,7 @@ A simple program designed to simulate a plasma globe.
 
 Real plasma globe           |  Simulated plasma globe
 :-------------------------:|:-------------------------:
-![](images/ptrans.png)  |  ![](images/only_ball_small.gif)
+![](images/real.gif)  |  ![](images/only_ball_small.gif)
 
 
 ![](images/small_version.gif)
