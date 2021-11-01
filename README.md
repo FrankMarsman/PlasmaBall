@@ -1,8 +1,9 @@
 # PlasmaBall
-A small program that is able to simulate a plasma globe
+A simple program designed to simulate a plasma globe.
 
-
-![](images/AAA.png)
+Real plasma globe           |  Simulated plasma globe
+:-------------------------:|:-------------------------:
+![](images/ptrans.png)  |  ![](images/AAA.png)
 
 
 ![](images/small_version.gif)
